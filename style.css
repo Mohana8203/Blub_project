@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(228, 176, 45);
+    text-align:center;
+    color:  solid black;
+}
+
+#heading{
+    background:rgb(71, 196, 190);
+    height:80px;
+    width:900px;
+    margin:auto;
+    padding-top:40px;
+    border-radius: 50%;
+    text-align:center;
+    border-color: blue;
+}
+
+img{
+    height: 300px;
+    width:300px;
+    margin:auto;
+    border: 5px solid;
+    border-color: blue;
+    border-radius: 150px;
+    margin-top:50px;
+}
